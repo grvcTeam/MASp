@@ -9,6 +9,9 @@ A repository to download the MAS<sup>+</sup> environment for fast prototyping of
 The modified version of PX4 needed for MAS<sup>+</sup> will be avalailable **here**.  
 The basic MAS<sup>+</sup> Simulink scheme can be downloaded **here**.  
 
+## Hardware solutions
+The only current hardware architecture consists of a Intel NUC and a Raspberry Pi 3 equipped with the NAVIO2 shield. Other hardware solutions will be advertised here in the future.
+
 ## Contact
 Carlos Rodríguez de Cos  
 crdecos@us.es  
