@@ -7,3 +7,7 @@ A repository to download the MAS<sup>+</sup> environment for fast prototyping of
 
 ## Download and Installation
 The basic MAS<sup>+</sup> Simulink scheme can be downloaded **here**.
+
+## Contact
+GRVC Robotics Laboratory  
+Universidad de Sevilla (Spain)
