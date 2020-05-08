@@ -6,8 +6,11 @@ A repository to download the MAS<sup>+</sup> environment for fast prototyping of
 <img src="image/warning.png" width="2%"> *Currently under construction. We apologize for any inconvenience.*
 
 ## Download and Installation
-The basic MAS<sup>+</sup> Simulink scheme can be downloaded **here**.
+The modified version of PX4 needed for MAS<sup>+</sup> will be avalailable **here**.  
+The basic MAS<sup>+</sup> Simulink scheme can be downloaded **here**.  
 
 ## Contact
-GRVC Robotics Laboratory  
-Universidad de Sevilla (Spain)
+Carlos Rodríguez de Cos  
+crdecos@us.es  
+**GRVC Robotics Laboratory  
+Universidad de Sevilla (Spain)**
