@@ -1,5 +1,5 @@
-# MAS<sup>+</sup> UAS Modular Autopilot Solution
-A repository to download the MAS<sup>+</sup> environment and exchange your customised modules.
+# MAS<sup>+</sup> Modular Autopilot Solution
+A repository to download the MAS<sup>+</sup> environment for fast prototyping of Unmanned Aerial Systems and to exchange your customised functionalities.
 
 *Currently under construction. We apologize for any inconvenience.*
 
