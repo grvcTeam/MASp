@@ -18,6 +18,6 @@ Instructions about the installation are available in the [Wiki](https://github.c
 
 ## Contact
 Carlos Rodríguez de Cos  
-crdecos@us.es
-**GRVC Robotics Lab Sevilla  
+crdecos@us.es    
+**GRVC Robotics Lab Sevilla      
 Universidad de Sevilla (Spain)**
