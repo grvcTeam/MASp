@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/grvcTeam/MASp/blob/master/image/MASp.png" width="30%">
+<img src="https://github.com/grvcTeam/MASp/blob/master/image/MASp.png" width="20%">
 </p>
 
 A repository to download the MAS<sup>+</sup> environment for fast prototyping of Unmanned Aerial Systems and to exchange your customised functionalities.
