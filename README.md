@@ -6,7 +6,7 @@ A repository to download the MAS<sup>+</sup> environment for fast prototyping of
 
 Instructions about the installation are available in the [Wiki](https://github.com/grvcTeam/MASp/wiki)
 
-> <img src="image/warning.png" width="2%"> *Currently under construction. We apologize for any inconvenience.*
+> <img src="image/warning.png" width="2%"> *Currently under construction. Furthermore, additional delays due to the COVID-19 Global Crisis are expected. We apologise for any inconvenience.*
 
 ## Hardware solutions tested
 
