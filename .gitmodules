@@ -1,0 +1,4 @@
+[submodule "PX4-Firmware"]
+	path = PX4-Firmware
+	url = https://github.com/grvcTeam/PX4-Firmware
+	branch = grvc-pi-hexa
